@@ -3,7 +3,7 @@
 [![CI](https://github.com/dieuantoine/adsb-weather/actions/workflows/ci.yml/badge.svg)](https://github.com/dieuantoine/adsb-weather/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Estimation des conditions atmosphériques à partir de données d’avion (ADS-B / Mode-S)
+Estimation des conditions atmosphériques à partir de données d’avion (ADS-B / Mode-S) **WiP**
 
 ## Objectif
 
